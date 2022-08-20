@@ -37,7 +37,7 @@ cluster_details={
 
 ### Running the File:
 ```
-python3 get_role_bindings.py
+python3 get_role_binding.py
 ```
 
 You will get the list of Role Bindings inside your cluster in the following format:
